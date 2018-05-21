@@ -1,7 +1,7 @@
 # ACD_MDS_DL_Project-1
 Deep Learning Project #1  - European Soccer Data Analysis 
 
-Part 1 - Data Ingestion/Exploration
+Part 1(a) - Data Ingestion/Exploration
 - Python script - DL8_Proj1_SoccerDataAnalysis_Part1.py
 - Execution Screenshots -
 DL8_Proj1_Part1a_ScreenshotA,
@@ -9,7 +9,9 @@ DL8_Proj1_Part1a_ScreenshotB,
 DL8_Proj1_Part1a_ScreenshotC,
 DL8_Proj1_Part1a_ScreenshotD,
 DL8_Proj1_Part1a_ScreenshotE,
-DL8_Proj1_Part1a_ScreenshotF,
+DL8_Proj1_Part1a_ScreenshotF
+Part 1(b) - Data Visualization
+- Execution Screenshots -
 DL8_Proj1_Part1b_ScreenshotA,
 DL8_Proj1_Part1b_ScreenshotB,
 DL8_Proj1_Part1b_ScreenshotC,
